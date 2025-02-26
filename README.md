@@ -1,8 +1,5 @@
 <h1 align="center">Portfolio</h1>
 
-## Live at:
-### `https://bipashabhatt.herokuapp.com/`
-
 
 ## Screenshots
 ![](7.jpg)
